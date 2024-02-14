@@ -1,0 +1,86 @@
+name,type,format,number,issue,revision,effective_date,url,coverpage,owner,reviewer,review_date,approver,approval_date
+ANS Quality Manual,ANSPM,Long Document,ANSPM 01 Volume 1,1,0,2023-12-15,storage\Documents\file\ANSPM 1 - QM.pdf,storage\documents\coverpage\anspm1.png,58,59,2023-12-15,1,2023-12-15
+Document Control Policy Manual,ANSPM,Long Document,ANSPM 02,1,0,2023-12-15,storage\Documents\file\ANSPM 2 - DCPM.pdf,storage\Documents\coverpage\anspm2.png,59,58,2023-12-15,1,2023-12-15
+Training Policy Manual,ANSPM,Long Document,ANSPM 03,1,0,2023-12-15,storage\Documents\file\ANSPM 3 - Training Policy Manual.pdf,storage\Documents\coverpage\anspm3.png,63,50,2023-12-15,1,2023-12-15
+Safety Management Policy Manual,ANSPM,Long Document,ANSPM 04,1,0,2023-01-17,storage\Documents\file\ANSPM 4 - SMPM.pdf,storage\Documents\coverpage\anspm4.png,50,55,2023-01-17,1,2023-01-17
+ANS Search and Rescue Manual,ANSPM,Long Document,ANSPM 05,1,0,2023-05-05,storage\Documents\file\ANSPM 5 - ASARM.pdf,storage\Documents\coverpage\anspm5.png,72,50,2023-05-05,1,2023-05-05
+ATS Miri Safety Management Manual,ANSIM,Long Document,ANSIM 421,1,0,2023-07-01,storage\Documents\file\ANSIM 421 - ATS Miri SMM.pdf,storage\Documents\coverpage\SMM.png,733,55,2023-07-01,50,2023-07-01
+ATS Sibu Safety Management Manual,ANSIM,Long Document,ANSIM 427,1,0,2023-07-01,storage\Documents\file\ANSIM 427 - ATS Sibu SMM.pdf,storage\Documents\coverpage\SMM.png,752,55,2023-07-01,50,2023-07-01
+ATS Kuching Safety Management Manual,ANSIM,Long Document,ANSIM 413,1,0,2023-07-01,storage\Documents\file\ANSIM 413 - ATS Kuching SMM.pdf,storage\Documents\coverpage\SMM.png,644,55,2023-07-01,50,2023-07-01
+ATS Kerteh Safety Management Manual,ANSIM,Long Document,ANSIM 405,1,0,2023-07-17,storage\Documents\file\ANSIM 405 - ATS Kerteh SMM.pdf,storage\Documents\coverpage\SMM.png,627,55,2023-07-17,49,2023-07-17
+ATS KK ATCC Safety Management Manual,ANSIM,Long Document,ANSIM 408,1,0,2023-08-15,storage\Documents\file\ANSIM 408 - ATS KK ATCC SMM.pdf,storage\Documents\coverpage\SMM.png,803,55,2023-08-15,49,2023-08-15
+ATS Sandakan Safety Management Manual,ANSIM,Long Document,ANSIM 426,1,0,2023-08-15,storage\Documents\file\ANSIM 426 - ATS Sandakan SMM.pdf,storage\Documents\coverpage\SMM.png,933,55,2023-08-15,49,2023-08-15
+ATS Malacca Safety Management Manual,ANSIM,Long Document,ANSIM 419,1,0,2023-08-15,storage\Documents\file\ANSIM 419 - ATS Malacca SMM.pdf,storage\Documents\coverpage\SMM.png,613,55,2023-08-15,49,2023-08-15
+ATS Marudi Safety Management Manual,ANSIM,Long Document,ANSIM 420,1,0,2023-08-30,storage\Documents\file\ANSIM 420 - ATS Marudi SMM.pdf,storage\Documents\coverpage\SMM.png,796,55,2023-08-30,49,2023-08-30
+ATS Kota Kinabalu Safety Management Manual,ANSIM,Long Document,ANSIM 409,1,0,2023-08-30,storage\Documents\file\ANSIM 409 - ATS Kota Kinabalu SMM.pdf,storage\Documents\coverpage\SMM.png,802,55,2023-08-30,49,2023-08-30
+ATS Pulau Tioman Safety Management Manual,ANSIM,Long Document,ANSIM 425,1,0,2023-08-15,storage\Documents\file\ANSIM 425 - ATS Pulau Tioman SMM.pdf,storage\Documents\coverpage\SMM.png,636,55,2023-08-15,49,2023-08-15
+ATS Penang Safety Management Manual,ANSIM,Long Document,ANSIM 424,1,0,2023-09-11,storage\Documents\file\ANSIM 424 - ATS Penang SMM.pdf,storage\Documents\coverpage\SMM.png,483,55,2023-09-11,49,2023-09-11
+ATS Langkawi Safety Management Manual,ANSIM,Long Document,ANSIM 416,1,0,2023-09-18,storage\Documents\file\ANSIM 416 - ATS Langkawi SMM.pdf,storage\Documents\coverpage\SMM.png,502,55,2023-09-18,49,2023-09-18
+ATS Subang Safety Management Manual,ANSIM,Long Document,ANSIM 428,1,0,2023-09-18,storage\Documents\file\ANSIM 428 - ATS Subang SMM.pdf,storage\Documents\coverpage\SMM.png,552,55,2023-09-18,49,2023-09-18
+Bintulu Safety Management Manual,ANSIM,Long Document,ANSIM 402,1,0,2023-10-20,storage\Documents\file\ANSIM 402 - ATS Bintulu SMM.pdf,storage\Documents\coverpage\SMM.png,769,55,2023-10-20,49,2023-10-20
+Alor Setar Safety Management Manual,ANSIM,Long Document,ANSIM 401,1,0,2023-10-30,storage\Documents\file\ANSIM 401 - ATS Alor Setar SMM.pdf,storage\Documents\coverpage\SMM.png,576,55,2023-10-30,49,2023-10-30
+Johor Bahru Safety Management Manual,ANSIM,Long Document,ANSIM 404,1,0,2023-10-30,storage\Documents\file\ANSIM 404 - ATS Johor Bahru SMM.pdf,storage\Documents\coverpage\SMM.png,515,55,2023-10-30,49,2023-10-30
+Kota Bharu Safety Management Manual,ANSIM,Long Document,ANSIM 407,1,0,2023-10-30,storage\Documents\file\ANSIM 407 - ATS Kota Bharu SMM.pdf,storage\Documents\coverpage\SMM.png,534,55,2023-10-30,49,2023-10-30
+Lawas Safety Management Manual,ANSIM,Long Document,ANSIM 417,1,0,2023-11-06,storage\Documents\file\ANSIM 417 - ATS Lawas SMM.pdf,storage\Documents\coverpage\SMM.png,787,55,2023-11-06,49,2023-11-06
+Ipoh Safety Management Manual,ANSIM,Long Document,ANSIM 403,1,0,2023-11-15,storage\Documents\file\ANSIM 403 - ATS Ipoh SMM.pdf,storage\Documents\coverpage\SMM.png,587,55,2023-11-15,49,2023-11-15
+Kuala Terengganu Safety Management Manual,ANSIM,Long Document,ANSIM 411,1,0,2023-11-15,storage\Documents\file\ANSIM 411 - ATS Kuala Terengganu SMM.pdf,storage\Documents\coverpage\SMM.png,599,55,2023-11-15,49,2023-11-15
+Lahad Datu Safety Management Manual,ANSIM,Long Document,ANSIM 415,1,0,2023-11-22,storage\Documents\file\ANSIM 415 - ATS Lahad Datu SMM.pdf,storage\Documents\coverpage\SMM.png,928,55,2023-11-22,49,2023-11-22
+Tawau Safety Management Manual,ANSIM,Long Document,ANSIM 429,1,0,2023-11-22,storage\Documents\file\ANSIM 429 - ATS Tawau SMM.pdf,storage\Documents\coverpage\SMM.png,914,55,2023-11-22,49,2023-11-22
+Mukah Safety Management Manual,ANSIM,Long Document,ANSIM 422,1,0,2023-12-12,storage\Documents\file\ANSIM 422 - ATS Mukah SMM.pdf,storage\Documents\coverpage\SMM.png,792,55,2023-12-12,49,2023-12-12
+Mulu Safety Management Manual,ANSIM,Long Document,ANSIM 423,1,0,2023-12-12,storage\Documents\file\ANSIM 423 - ATS Mulu SMM.pdf,storage\Documents\coverpage\SMM.png,786,55,2023-12-12,49,2023-12-12
+KLATCC Safety Management Manual,ANSIM,Long Document,ANSIM 410,1,0,2023-12-15,storage\Documents\file\ANSIM 410 - ATS KL ATCC SMM.pdf,storage\Documents\coverpage\SMM.png,33,55,2023-12-15,49,2023-12-15
+ATS KLIA Safety Management Manual,ANSIM,Long Document,ANSIM 406,1,0,2023-12-15,storage\Documents\file\ANSIM 406 - ATS KLIA SMM.pdf,storage\Documents\coverpage\SMM.png,358,55,2023-12-15,49,2023-12-15
+KCH ATCC Safety Management Manual,ANSIM,Long Document,ANSIM 412,1,0,2023-12-26,storage\Documents\file\ANSIM 412 - ATS KCH ATCC SMM.pdf,storage\Documents\coverpage\SMM.png,642,55,2023-12-26,49,2023-12-26
+ATS Limbang Safety Management Manual,ANSIM,Long Document,ANSIM 418,1,0,2023-12-26,storage\Documents\file\ANSIM 418 - ATS Limbang SMM.pdf,storage\Documents\coverpage\SMM.png,780,55,2023-12-26,49,2023-12-26
+Deputy Chief Executive Officer (Operations)'s Handbook,ANSUH,Long Document,ANSUH 00001,1,0,2023-12-15,storage\Documents\file\ANSUH 00001 - DCEO(O) Handbook.pdf,storage\Documents\coverpage\10000.png,1,1,2023-12-15,1,2023-12-15
+ANSOD Handbook,ANSUH,Long Document,ANSUH 10000,1,0,2023-02-01,storage\Documents\file\ANSUH 10000 - ANS Operations Division.pdf,storage\Documents\coverpage\10000.png,81,70,2023-02-01,1,2023-02-01
+KLATCC Handbook,ANSUH,Long Document,ANSUH 10300,1,0,2023-02-01,storage\Documents\file\ANSUH 10300 - KLATCC.pdf,storage\Documents\coverpage\10300.png,81,70,2023-02-01,1,2023-02-01
+KLIA Handbook,ANSUH,Long Document,ANSUH 10400,1,0,2023-02-01,storage\Documents\file\ANSUH 10400 - KLIA.pdf,storage\Documents\coverpage\10400.png,358,70,2023-02-01,1,2023-02-01
+OCC Handbook,ANSUH,Long Document,ANSUH 10500,1,0,2023-02-01,storage\Documents\file\ANSUH 10600 - OCC.pdf,storage\Documents\coverpage\10600.png,71,70,2023-02-01,1,2023-02-01
+RANS Handbook,ANSUH,Long Document,ANSUH 10600,1,0,2023-02-01,storage\Documents\file\ANSUH 10700 - RANS.pdf,storage\Documents\coverpage\10700.png,58,70,2023-02-01,1,2023-02-01
+SAR Handbook,ANSUH,Long Document,ANSUH 10700,1,0,2023-02-01,storage\Documents\file\ANSUH 11000 - SAR.pdf,storage\Documents\coverpage\11000.png,72,70,2023-02-01,1,2023-02-01
+"SAR Handbook - ARCC/ARSC Equipment, System & Communication Check",ANSUH,Long Document,ANSUH 10701,1,0,2023-05-05,storage\Documents\file\ANSUH 11001 - ARCC/ARSC COSPAS-SARSAT Distress Message Action.pdf,storage\Documents\coverpage\11000.png,156,72,2023-05-05,1,2023-05-05
+SAR Handbook - ARCC/ARSC COSPAS-SARSAT Alert Message Management,ANSUH,Long Document,ANSUH 10702,1,0,2023-05-05,"storage\Documents\file\ANSUH 11002 - ARCC/ARSC Equipment, System & Communication.pdf",storage\Documents\coverpage\11000.png,107,72,2023-05-05,1,2023-05-05
+ANSSD Handbook,ANSUH,Long Document,ANSUH 20000,1,0,2023-12-15,storage\Documents\file\ANSUH 20000 - ANS Safety Division.pdf,storage\Documents\coverpage\20000.png,58,49,2023-12-15,1,2023-12-15
+Audit & Quality Handbook,ANSUH,Long Document,ANSUH 20100,1,0,2023-12-15,storage\Documents\file\ANSUH 20100 - Audit and Quality.pdf,storage\Documents\coverpage\20100.png,58,49,2023-12-15,1,2023-12-15
+Audit and Quality Handbook - Handling of Notice of Proposed Rule Making: New and Revised Civil Aviation Directives,"ANSUH""",Long Document,ANSUH 20101,1,0,2023-06-08,storage\Documents\file\ANSUH 20101 - Handling of NPRM.pdf,storage\Documents\coverpage\20100.png,58,50,2023-06-08,1,2023-06-08
+Investigation Handbook,ANSUH,Long Document,ANSUH 20200,1,0,2023-02-01,storage\Documents\file\ANSUH 20200 - Investigation.pdf,storage\Documents\coverpage\20200.png,51,50,2023-02-01,1,2023-02-01
+SMS Handbook,ANSUH,Long Document,ANSUH 20300,1,0,2023-02-01,storage\Documents\file\ANSUH 20300 - SMS.pdf,storage\Documents\coverpage\20300.png,54,50,2023-02-01,1,2023-02-01
+ANSTED Handbook,ANSUH,Long Document,ANSUH 30000,1,0,2023-02-01,storage\Documents\file\ANSUH 30000 - ANS TEchnical Division.pdf,storage\Documents\coverpage\30000.png,33,31,2023-02-01,1,2023-02-01
+ATM Handbook,ANSUH,Long Document,ANSUH 30100,1,0,2023-02-01,storage\Documents\file\ANSUH 30100 - ATM.pdf,storage\Documents\coverpage\30100.png,32,31,2023-02-01,1,2023-02-01
+Airspace Policy Handbook,ANSUH,Long Document,ANSUH 30110,1,0,2023-02-01,storage\Documents\file\ANSUH 30130 - Airspace Policy.pdf,storage\Documents\coverpage\30130.png,36,32,2023-02-01,1,2023-02-01
+Pans-Ops & PBN Handbook,ANSUH,Long Document,ANSUH 30120,1,0,2023-02-01,storage\Documents\file\ANSUH 30120 - Pans Ops & PBN.pdf,storage\Documents\coverpage\30120.png,37,32,2023-02-01,1,2023-02-01
+"Procedure, ATS Route Structure & Contigency Plan Handbook",ANSUH,Long Document,ANSUH 30130,1,0,2023-02-01,"storage\Documents\file\ANSUH 30110 - Procedure,  ATS Route Structure and Contingency Plan.pdf",storage\Documents\coverpage\30110.png,33,32,2023-02-01,1,2023-02-01
+CNS/ATM System Handbook,ANSUH,Long Document,ANSUH 30200,1,0,2023-02-01,storage\Documents\file\ANSUH 30200 - CNS.pdf,storage\Documents\coverpage\30200.png,63,31,2023-02-01,1,2023-02-01
+ANSTD Handbook,ANSUH,Long Document,ANSUH 40000,1,0,2023-12-15,storage\Documents\file\ANSUH 40000 - ANS Training Division.pdf,storage\Documents\coverpage\40000.png,63,60,2023-12-15,1,2023-12-15
+Examination & Documents Handbook,ANSUH,Long Document,ANSUH 40100,1,0,2023-12-15,storage\Documents\file\ANSUH 40100 - Examinations and Documents.pdf,storage\Documents\coverpage\40200.png,62,60,2023-12-15,1,2023-12-15
+Planning Handbook,ANSUH,Long Document,ANSUH 40200,1,0,2023-12-15,storage\Documents\file\ANSUH 40200 - Planning.pdf,storage\Documents\coverpage\40100.png,63,60,2023-12-15,1,2023-12-15
+Regional Peninsular Handbook,ANSUH,Long Document,ANSUH 60000,1,0,2023-02-01,storage\Documents\file\ANSUH 10500 - Management Peninsular.pdf,storage\Documents\coverpage\10500.png,61,70,2023-02-01,1,2023-02-01
+ATS Alor Star Handbook,ANSUH,Long Document,ANSUH 60100,1,0,2023-02-01,storage\Documents\file\ANSUH 10501 - Alor Setar.pdf,storage\Documents\coverpage\10501.png,128,61,2023-02-01,1,2023-02-01
+ATS Ipoh Handbook,ANSUH,Long Document,ANSUH 60200,1,0,2023-02-01,storage\Documents\file\ANSUH 10502 - Ipoh.pdf,storage\Documents\coverpage\10502.png,587,61,2023-02-01,1,2023-02-01
+ATS Johor Bahru Handbook,ANSUH,Long Document,ANSUH 60300,1,0,2023-02-01,storage\Documents\file\ANSUH 10503 - Johor Bahru.pdf,storage\Documents\coverpage\10503.png,515,61,2023-02-01,1,2023-02-01
+ATS Kerteh Handbook,ANSUH,Long Document,ANSUH 60400,1,0,2023-02-01,storage\Documents\file\ANSUH 10504 - Kerteh.pdf,storage\Documents\coverpage\10504.png,627,61,2023-02-01,1,2023-02-01
+ATS Kota Bharu Handbook,ANSUH,Long Document,ANSUH 60500,1,0,2023-02-01,storage\Documents\file\ANSUH 10505 - Kota Bharu.pdf,storage\Documents\coverpage\10505.png,539,61,2023-02-01,1,2023-02-01
+ATS Kuala Terengganu Handbook,ANSUH,Long Document,ANSUH 60600,1,0,2023-02-01,storage\Documents\file\ANSUH 10506 - Kuala Terengganu.pdf,storage\Documents\coverpage\10506.png,599,61,2023-02-01,1,2023-02-01
+ATS Langkawi Handbook,ANSUH,Long Document,ANSUH 60700,1,0,2023-02-01,storage\Documents\file\ANSUH 10507 - Langkawi.pdf,storage\Documents\coverpage\10507.png,16,61,2023-02-01,1,2023-02-01
+ATS Malacca Handbook,ANSUH,Long Document,ANSUH 60800,1,0,2023-02-01,storage\Documents\file\ANSUH 10508 - Malacca.pdf,storage\Documents\coverpage\10508.png,613,61,2023-02-01,1,2023-02-01
+ATS Penang Handbook,ANSUH,Long Document,ANSUH 60900,1,0,2023-02-01,storage\Documents\file\ANSUH 10509 - Penang.pdf,storage\Documents\coverpage\10509.png,483,61,2023-02-01,1,2023-02-01
+ATS Pulau Tioman Handbook,ANSUH,Long Document,ANSUH 61000,1,0,2023-02-01,storage\Documents\file\ANSUH 10510 - Pulau Tioman.pdf,storage\Documents\coverpage\10510.png,636,61,2023-02-01,1,2023-02-01
+ATS Subang Tower Handbook,ANSUH,Long Document,ANSUH 61100,1,0,2023-02-01,storage\Documents\file\ANSUH 10511 - Subang.pdf,storage\Documents\coverpage\10511.png,552,61,2023-02-01,1,2023-02-01
+Regional Sabah Handbook,ANSUH,Long Document,ANSUH 70000,1,0,2023-02-01,storage\Documents\file\ANSUH 10800 - Regional Sabah.pdf,storage\Documents\coverpage\10800.png,799,799,2023-02-01,1,2023-02-01
+ATS KK ATCC Handbook,ANSUH,Long Document,ANSUH 70100,1,0,2023-02-01,storage\Documents\file\ANSUH 10801 - KKATCC.pdf,storage\Documents\coverpage\10801.png,904,799,2023-02-01,1,2023-02-01
+ATS Kota Kinabalu Handbook,ANSUH,Long Document,ANSUH 70200,1,0,2023-02-01,storage\Documents\file\ANSUH 10802 - Kota Kinabalu Tower.pdf,storage\Documents\coverpage\10802.png,904,799,2023-02-01,1,2023-02-01
+ATS Lahad Datu Handbook,ANSUH,Long Document,ANSUH 70400,1,0,2023-02-01,storage\Documents\file\ANSUH 10804 - Lahad Datu.pdf,storage\Documents\coverpage\10804.png,928,799,2023-02-01,1,2023-02-01
+ATS Sandakan Handbook,ANSUH,Long Document,ANSUH 70500,1,0,2023-02-01,storage\Documents\file\ANSUH 10805 - Sandakan.pdf,storage\Documents\coverpage\10805.png,933,799,2023-02-01,1,2023-02-01
+ATS Tawau Handbook,ANSUH,Long Document,ANSUH 70600,1,0,2023-02-01,storage\Documents\file\ANSUH 10806 - Tawau.pdf,storage\Documents\coverpage\10806.png,641,799,2023-02-01,1,2023-02-01
+Regional Sarawak Handbook,ANSUH,Long Document,ANSUH 80000,1,0,2023-02-01,storage\Documents\file\ANSUH 10900 - Regional Sarawak.pdf,storage\Documents\coverpage\10900.png,809,639,2023-02-01,1,2023-02-01
+ATS Bintulu Handbook,ANSUH,Long Document,ANSUH 80100,1,0,2023-02-01,storage\Documents\file\ANSUH 10901 - Bintulu.pdf,storage\Documents\coverpage\10901.png,769,639,2023-02-01,1,2023-02-01
+ATS Kuching ATCC Handbook,ANSUH,Long Document,ANSUH 80200,1,0,2023-02-01,storage\Documents\file\ANSUH 10902 - KCH ATCC.pdf,storage\Documents\coverpage\10902.png,809,639,2023-02-01,1,2023-02-01
+ATS Kuching Handbook,ANSUH,Long Document,ANSUH 80300,1,0,2023-02-01,storage\Documents\file\ANSUH 10903 - Kuching Tower.pdf,storage\Documents\coverpage\10903.png,809,639,2023-02-01,1,2023-02-01
+ATS Lawas Handbook,ANSUH,Long Document,ANSUH 80400,1,0,2023-02-01,storage\Documents\file\ANSUH 10904 - Lawas.pdf,storage\Documents\coverpage\10904s.png,787,639,2023-02-01,1,2023-02-01
+ATS Limbang Handbook,ANSUH,Long Document,ANSUH 80500,1,0,2023-02-01,storage\Documents\file\ANSUH 10905 - Limbang.pdf,storage\Documents\coverpage\10905.png,780,639,2023-02-01,1,2023-02-01
+ATS Marudi Handbook,ANSUH,Long Document,ANSUH 80600,1,0,2023-02-01,storage\Documents\file\ANSUH 10906 - Marudi.pdf,storage\Documents\coverpage\10906.png,792,639,2023-02-01,1,2023-02-01
+ATS Miri Handbook,ANSUH,Long Document,ANSUH 80700,1,0,2023-02-01,storage\Documents\file\ANSUH 10907 - Miri.pdf,storage\Documents\coverpage\10907i.png,738,639,2023-02-01,1,2023-02-01
+ATS Mukah Handbook,ANSUH,Long Document,ANSUH 80800,1,0,2023-02-01,storage\Documents\file\ANSUH 10908 - Mukah.pdf,storage\Documents\coverpage\10908.png,661,639,2023-02-01,1,2023-02-01
+ATS Mulu Handbook,ANSUH,Long Document,ANSUH 80900,1,0,2023-02-01,storage\Documents\file\ANSUH 10909 - Mulu.pdf,storage\Documents\coverpage\10909.png,786,639,2023-02-01,1,2023-02-01
+ATS Sibu Handbook,ANSUH,Long Document,ANSUH 81000,1,0,2023-02-01,storage\Documents\file\ANSUH 10910 - Sibu.pdf,storage\Documents\coverpage\10910.png,677,639,2023-02-01,1,2023-02-01
