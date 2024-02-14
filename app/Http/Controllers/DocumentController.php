@@ -24,15 +24,7 @@ class DocumentController extends Controller
         ];
         $role = User::find(Auth::user()->id)->getRoleNames();
         $div = Auth::user()->division;
-        if ($role->contains('SysAdmin') || $role->contains('Admin')) {
-            $documents = Document::all();
-        } elseif ($role->contains('director')) {
-            $documents = Document::where('restriction', 'all')->orWhere('restriction', $div)->orWhere('restriction', 'directors')->get();
-        } elseif (in_array($div, $ansd)) {
-            $documents = Document::where('restriction', 'all')->orWhere('restriction', $div)->get();
-        } else {
-            $documents = Document::where('restriction', 'all')->get();
-        }
+        $documents = Document::all();
 
         return view('documents.index')->with('documents', $documents);
     }

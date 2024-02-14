@@ -1,24 +1,24 @@
 type,number,reference,title,Issue Date,url,Publisher,Prepared By,Approved By,approved_at
-SN,SN 01/2022,CAAM.PTU.700-1/4/8 (4),Potential Safety Concerns Regarding Interference to Aircraft Radio Altimeter From 5G Mobile Broadband Signals,2022-01-21,,ANSSD,50,49,2022-01-21
-SN,SN 02/2022,CAAM.PTU.700-1/4/8 (5),Effective Communication,2022-04-08,,ANSSD,50,797,2022-04-08
-SN,SN 03/2022,CAAM.PTU.700-1/4/8 (6),Rejected Take Off  ATC Considerations,2022-04-11,,ANSSD,50,797,2022-04-11
-SN,SN 04/2022,CAAM.BKPNU.700-1/4/10 (01),ATC Pilot Communication During Critical Phase of Flight,2022-08-02,,ANSSD,52,797,2022-08-02
-SN,SN 05/2022,CAAM.BKPNU.700-1/4/10 (2),Significant Weather Forecast,2022-08-26,,ANSSD,52,797,2022-08-26
-SN,SN 06/2022,CAAM.BKPNU.700-1/4/10 (3),Alerting Service and Actions by ATS Personnel,2022-09-13,,ANSSD,227,797,2022-09-13
-SN,SN 07/2022,CAAM.BKPNU.700-1/4/10 (4),ATC Responds to STCA,2022-10-25,,ANSSD,56,797,2022-10-25
-SN,SN 08/2022,CAAM.BKPNU.700-1/4/10 (5),"Recovery of Air Travel, Northeast Monsoon Season & GE 15 Call for Increased Situational Awareness & Safety Compliance",2022-10-25,,ANSSD,227,797,2022-10-25
-SN,SN 01/2024,CAAM.BKPNU.700-1/4/10 (6),Comprehensive Guide for ANS Safety Reporting,2024-01-12,,ANSSD,59,49,2024-01-12
-SN,SN 02/2024,CAAM.BKPNU.700-1/4/10 (7),Short Term Conflict Alert (STCA),2024-01-22,,ANSSD,53,49,2024-01-22
-SB,SB 01/2021,Nil,Normal Operations Safety Survey (NOSS),2021-11-01,,ANSSD,50,0,2021-11-01
-SB,SB 01/2022,Nil,Ramadhan: Human Factors Considerations,2022-04-01,,ANSSD,50,0,2022-04-01
-SB,SB 02/2022,Nil,"Understanding Aircraft Take Off Speeds: V1, Vr And V2",2022-04-01,,ANSSD,50,0,2022-04-01
-SB,SB 03/2022,Nil,CAAM SMS Objectives,2022-08-01,,ANSSD,52,0,2022-08-01
-SB,SB 04/2022,Nil,Human Factors In Aviation   The Dirty Dozen,2022-10-01,,ANSSD,52,0,2022-10-01
-SB,SB 05/2022,Nil,Safety Culture,2022-11-01,,ANSSD,52,0,2022-11-01
-SB,SB 01/2023,Nil,Safety Report Card 2022,2023-02-01,,ANSSD,52,0,2023-02-01
-SB,SB 02/2023,Nil,Malaysia State Safety Programme (SSP),2023-03-01,,ANSSD,52,0,2023-03-01
-SB,SB 03/2023,CAAM.BKPNU.700-1/4/10 (5),ENHANCING SAFETY: OPTIMISING ARRIVAL SPACING,2023-08-18,,ANSSD,50,0,2023-08-18
-SB,SB 04/2023,CAAM.BKPNU.700-1/4/10 (4),RESURGENCE OF COVID 19,2023-12-21,,ANSSD,49,0,2023-12-21
-AB,AB 01/2024,CAAM.BOPNU.100-15/2/5 Jld. 2 (01),CENTRAL ROSTERING SYSTEM,2024-08-01,,ANSOD,71,0,2024-08-01
-AB,AB 02/2024,SB 04+C15:E21/2023,READBACK AND HEARBACK,2024-01-15,,ANSSD,49,0,2024-01-15
-AB,AB 03/2024,CAAM.BKPNU.700-1/4/10 (8),"STAY FRESH, STAY SAFE",2024-01-15,,ANSSD,49,0,2024-01-15
+SN,SN 01/2022,CAAM.PTU.700-1/4/8 (4),Potential Safety Concerns Regarding Interference to Aircraft Radio Altimeter From 5G Mobile Broadband Signals,2022-01-21,storage\app\public\Publications\Safety Notice\2022\SN 01_2022 - Potential Safety Concerns Regarding Interference To Acft Radio Altimeter From 5G Mobile Broadband Signals.pdf,ANSSD,50,49,2022-01-21
+SN,SN 02/2022,CAAM.PTU.700-1/4/8 (5),Effective Communication,2022-04-08,storage\app\public\Publications\Safety Notice\2022\SN 02-2022 - Effective Communication.pdf,ANSSD,50,797,2022-04-08
+SN,SN 03/2022,CAAM.PTU.700-1/4/8 (6),Rejected Take Off  ATC Considerations,2022-04-11,storage\app\public\Publications\Safety Notice\2022\SN 03_2022 - Rejected Take-Off - ATC Considerations.pdf,ANSSD,50,797,2022-04-11
+SN,SN 04/2022,CAAM.BKPNU.700-1/4/10 (01),ATC Pilot Communication During Critical Phase of Flight,2022-08-02,storage\app\public\Publications\Safety Notice\2022\SN 04_2022 - ATC-Pilot Communication During Critical Phase of Flight.pdf,ANSSD,52,797,2022-08-02
+SN,SN 05/2022,CAAM.BKPNU.700-1/4/10 (2),Significant Weather Forecast,2022-08-26,storage\app\public\Publications\Safety Notice\2022\SN 05-2022 - Significant Weather Forecast.pdf,ANSSD,52,797,2022-08-26
+SN,SN 06/2022,CAAM.BKPNU.700-1/4/10 (3),Alerting Service and Actions by ATS Personnel,2022-09-13,storage\app\public\Publications\Safety Notice\2022\SN 06-2022 - Alerting Service and Actions by ATS Personnel.pdf,ANSSD,227,797,2022-09-13
+SN,SN 07/2022,CAAM.BKPNU.700-1/4/10 (4),ATC Responds to STCA,2022-10-25,storage\app\public\Publications\Safety Notice\2022\SN 07_2022 - ATC Responds to Short Term Conflict Alert (STCA).pdf,ANSSD,56,797,2022-10-25
+SN,SN 08/2022,CAAM.BKPNU.700-1/4/10 (5),"Recovery of Air Travel, Northeast Monsoon Season & GE 15 Call for Increased Situational Awareness & Safety Compliance",2022-10-25,storage\app\public\Publications\Safety Notice\2022\SN 08_2022 - Recovery of Air Travel Northeast Monsoon Season and GE-15 Call for Increased ATC Situational Awareness and Safety Compliance.pdf,ANSSD,227,797,2022-10-25
+SN,SN 01/2024,CAAM.BKPNU.700-1/4/10 (6),Comprehensive Guide for ANS Safety Reporting,2024-01-12,storage\app\public\Publications\Safety Notice\SN 01_2024 - Comprehensive Guide for ANS Safety Reporting.pdf,ANSSD,59,49,2024-01-12
+SN,SN 02/2024,CAAM.BKPNU.700-1/4/10 (7),Short Term Conflict Alert (STCA),2024-01-22,storage\app\public\Publications\Safety Notice\SN 02_2024 - Short Term Conflict Area.pdf,ANSSD,53,49,2024-01-22
+SB,SB 01/2021,Nil,Normal Operations Safety Survey (NOSS),2021-11-01,storage\app\public\Publications\ANSD Bulletin\ANSSD\2021\Safety Bulletin Issue 01_NOSS.pdf,ANSSD,50,0,2021-11-01
+SB,SB 01/2022,Nil,Ramadhan: Human Factors Considerations,2022-04-01,storage\app\public\Publications\ANSD Bulletin\ANSSD\2022\Safety Bulletin Issue 02_Ramadhan.pdf,ANSSD,50,0,2022-04-01
+SB,SB 02/2022,Nil,"Understanding Aircraft Take Off Speeds: V1, Vr And V2",2022-04-01,storage\app\public\Publications\ANSD Bulletin\ANSSD\2022\Safety Bulletin Issue 03_Understanding Aircraft Take Off Speeds.pdf,ANSSD,50,0,2022-04-01
+SB,SB 03/2022,Nil,CAAM SMS Objectives,2022-08-01,storage\app\public\Publications\ANSD Bulletin\ANSSD\2022\Safety Bulletin Issue 04_SMS Objectives.pdf,ANSSD,52,0,2022-08-01
+SB,SB 04/2022,Nil,Human Factors In Aviation   The Dirty Dozen,2022-10-01,storage\app\public\Publications\ANSD Bulletin\ANSSD\2022\Safety Bulletin Issue 05 - Human Factors in Aviation- The Dirty Dozen.pdf,ANSSD,52,0,2022-10-01
+SB,SB 05/2022,Nil,Safety Culture,2022-11-01,storage\app\public\Publications\ANSD Bulletin\ANSSD\2022\Safety Bulletin Issue 06 - Safety Culture.pdf,ANSSD,52,0,2022-11-01
+SB,SB 01/2023,Nil,Safety Report Card 2022,2023-02-01,storage\app\public\Publications\ANSD Bulletin\ANSSD\2023\Safety Bulletin Issue 07 - Safety Report Card 2022.pdf,ANSSD,52,0,2023-02-01
+SB,SB 02/2023,Nil,Malaysia State Safety Programme (SSP),2023-03-01,storage\app\public\Publications\ANSD Bulletin\ANSSD\2023\Safety Bulletin Issue 08 - State Safey Programme (SSP).pdf,ANSSD,52,0,2023-03-01
+SB,SB 03/2023,CAAM.BKPNU.700-1/4/10 (5),ENHANCING SAFETY: OPTIMISING ARRIVAL SPACING,2023-08-18,storage\app\public\Publications\ANSD Bulletin\ANSSD\2023\Safety Bulletin Issue 09 - Optimising Arrival Spacing.pdf,ANSSD,50,0,2023-08-18
+SB,SB 04/2023,CAAM.BKPNU.700-1/4/10 (4),RESURGENCE OF COVID 19,2023-12-21,storage\app\public\Publications\ANSD Bulletin\ANSSD\2023\Safety Bulletin Issue 010 - Resurgence CoViD-19.pdf,ANSSD,49,0,2023-12-21
+AB,AB 01/2024,CAAM.BOPNU.100-15/2/5 Jld. 2 (01),CENTRAL ROSTERING SYSTEM,2024-08-01,storage\app\public\Publications\ANSD Bulletin\ANSOD\ANSOD.2024.01 - Central Rostering System.pdf,ANSOD,71,0,2024-08-01
+AB,AB 02/2024,SB 04+C15:E21/2023,READBACK AND HEARBACK,2024-01-15,storage\app\public\Publications\ANSD Bulletin\ANSSD\ANSD Bulletin Issue 11 - Readback and Hearback.pdf,ANSSD,49,0,2024-01-15
+AB,AB 03/2024,CAAM.BKPNU.700-1/4/10 (8),"STAY FRESH, STAY SAFE",2024-01-15,storage\app\public\Publications\ANSD Bulletin\ANSSD\ANSD Bulletin Issue 12 - Stay Fresh Stay Safe.pdf,ANSSD,49,0,2024-01-15
