@@ -17,7 +17,7 @@ class DatabaseSeeder extends Seeder
             InstructionSeeder::class,
             DirectiveSeeder::class,
             PublicationSeeder::class,
-            UserSeeder::class,
+            // UserSeeder::class,
         ]);
     }
 }

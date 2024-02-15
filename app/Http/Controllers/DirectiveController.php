@@ -13,7 +13,8 @@ class DirectiveController extends Controller
      */
     public function index()
     {
-        //
+        $directives = Directive::where('status', '!=', 'draft')->get();
+        return view('directives.index')->with('directives', $directives);
     }
 
     /**

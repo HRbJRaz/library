@@ -26,6 +26,16 @@
                         {{ __('Publications') }}
                     </x-nav-link>
                 </div>
+                <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
+                    <x-nav-link href="{{ route('instructions.index') }}" :active="request()->routeIs('instructions*')">
+                        {{ __('Instructions') }}
+                    </x-nav-link>
+                </div>
+                <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
+                    <x-nav-link href="{{ route('directives.index') }}" :active="request()->routeIs('directives*')">
+                        {{ __('Directives') }}
+                    </x-nav-link>
+                </div>
             </div>
 
             <div class="hidden sm:flex sm:items-center sm:ms-6">
@@ -161,6 +171,16 @@
         <div class="pt-2 pb-3 space-y-1">
             <x-responsive-nav-link href="{{ route('publications.index') }}" :active="request()->routeIs('publications*')">
                 {{ __('Publication') }}
+            </x-responsive-nav-link>
+        </div>
+        <div class="pt-2 pb-3 space-y-1">
+            <x-responsive-nav-link href="{{ route('instructions.index') }}" :active="request()->routeIs('instructions*')">
+                {{ __('Instruction') }}
+            </x-responsive-nav-link>
+        </div>
+        <div class="pt-2 pb-3 space-y-1">
+            <x-responsive-nav-link href="{{ route('directives.index') }}" :active="request()->routeIs('directives*')">
+                {{ __('Directive') }}
             </x-responsive-nav-link>
         </div>
 

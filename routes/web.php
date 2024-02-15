@@ -1,9 +1,11 @@
 <?php
 
-use App\Http\Controllers\DocumentController;
 use App\Http\Controllers\Controller;
-use App\Http\Controllers\PublicationController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\DocumentController;
+use App\Http\Controllers\DirectiveController;
+use App\Http\Controllers\InstructionController;
+use App\Http\Controllers\PublicationController;
 
 /*
 |--------------------------------------------------------------------------
@@ -31,6 +33,8 @@ Route::middleware([
     Route::get('documents/read/{id}', [DocumentController::class, 'read'])->middleware('verified')->name('documents.read');
     Route::resource('documents', DocumentController::class);
     Route::resource('publications', PublicationController::class);
+    Route::resource('instructions', InstructionController::class);
+    Route::resource('directives', DirectiveController::class);
 });
 
 Route::get('/run', [Controller::class, 'run']);

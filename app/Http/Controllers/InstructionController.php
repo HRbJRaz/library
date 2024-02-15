@@ -13,7 +13,8 @@ class InstructionController extends Controller
      */
     public function index()
     {
-        //
+        $instructions = Instruction::where('status', '!=', 'Draft')->get();
+        return view('instructions.index')->with('instructions', $instructions);
     }
 
     /**
